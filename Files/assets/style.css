@@ -1,0 +1,21 @@
+.bgColor{
+    background-color: #137dbd;
+    color: #ffffff;
+} 
+#PreValue,#nextValue{
+	border: none;
+    height: 25px;
+    border-radius: 5px;
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+  }
+
+  .tablecontentwidth{
+    border-style:solid;
+    border-color:blue;
+  }
